@@ -1,0 +1,18 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Vaansh Idnani\OneDrive\Desktop\LTspice\nor.net
+Start Time: Mon Sep  7 18:45:06 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+C:\Users\Vaansh Idnani\OneDrive\Desktop\LTspice\nor.net(8): Missing value, assuming 0V @ DC.
+
+Vin N002 0
+^^^^^^^^^^
+Total elapsed time: 0.076 seconds.
+
+Files loaded:
+C:\Users\Vaansh Idnani\OneDrive\Desktop\LTspice\nor.net
+C:\Users\Vaansh Idnani\AppData\Local\LTspice\lib\cmp\standard.mos
+

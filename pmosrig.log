@@ -1,0 +1,27 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Vaansh Idnani\OneDrive\Desktop\LTspice\pmosrig.net
+Start Time: Mon Sep  7 19:13:34 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+C:\Users\Vaansh Idnani\OneDrive\Desktop\LTspice\pmosrig.net(5): Missing value, assuming 0V @ DC.
+
+V1 0 N003
+^^^^^^^^^
+C:\Users\Vaansh Idnani\OneDrive\Desktop\LTspice\pmosrig.net(6): Missing value, assuming 0V @ DC.
+
+V3 0 N002
+^^^^^^^^^
+.step V2=1 
+.step V2=2 
+.step V2=3 
+.step V2=4 
+.step V2=5 
+Total elapsed time: 0.151 seconds.
+
+Files loaded:
+C:\Users\Vaansh Idnani\OneDrive\Desktop\LTspice\pmosrig.net
+C:\Users\Vaansh Idnani\AppData\Local\LTspice\lib\cmp\standard.mos
+
